@@ -1,0 +1,4 @@
+com/pps/opa/PolicyController.class
+com/pps/opa/OpaAdapterApplication.class
+com/pps/opa/dto/PolicyInput.class
+com/pps/opa/dto/PolicyDecision.class
